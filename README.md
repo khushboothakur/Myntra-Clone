@@ -6,12 +6,11 @@ A fully responsive **Myntra-inspired fashion e-commerce website** built using pu
 ## 📸 Screenshots
 
 ---
-
 ### 🏠 Home Page
-![Home Page](<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/153e41cc-f0f3-4bf6-ad64-b13c499ec36f" />)
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/153e41cc-f0f3-4bf6-ad64-b13c499ec36f" />
  
 ### 🛒 Cart Panel
-![Cart Panel](<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/60c7fa57-e2e0-4f28-8d96-f2cbfca71401" />)
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/60c7fa57-e2e0-4f28-8d96-f2cbfca71401" />
  
 ---
  
