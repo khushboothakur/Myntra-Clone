@@ -45,16 +45,16 @@ myntra-clone/
  
 ### Clone karo
 ```bash
-git clone https://github.com/khshboothakur/Myntra-Clone.git
+git clone https://github.com/khushboothakur/Myntra-Clone.git
 cd Myntra-Clone
 ```
  
-### Run karo
+### Run 
 ```
-index.html ko browser mein open karo — no setup needed!
+Open index.html in browser ,no setup needed!
 ```
  
-> 💡 **Tip:** VS Code mein **Live Server** extension use karo for auto-refresh.
+> 💡 **Tip:** in VS Code use "LIVE SERVER" Extension for auto-refresh.
  
 ---
  
